@@ -7,10 +7,12 @@ hellp file 3
 
 hell no 5
 
-<<<<<<< HEAD
+
 sua lai nua 1
-=======
+
 thay doi 1
->>>>>>> main
+
+thay doi 1
+
 
 thay doi 2
