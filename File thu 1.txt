@@ -12,3 +12,5 @@ sua lai nua 1
 =======
 thay doi 1
 >>>>>>> main
+
+thay doi 2
