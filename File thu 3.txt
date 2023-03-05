@@ -1,3 +1,7 @@
 heloo 2 file
 
+<<<<<<< HEAD
 khong merge lai
+=======
+merge lai di
+>>>>>>> main
